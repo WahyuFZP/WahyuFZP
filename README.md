@@ -1,27 +1,72 @@
-# 💫 About Me:
-An enthusiastic student majoring in Informatics Engineering. Originally from Indonesia, I discovered my true calling in the field of web development. 🚀 Driven by a burning passion for creating intuitive and visually appealing user interfaces, I’ve embarked on a journey to blend creativity with technology. I’m excited to contribute and collaborate in this vast world of programming. Let’s create something amazing together! 💻
+<p align="center">
+  <img src="./assets/banner.svg" alt="Wahyu Fikri, Software QA Engineer: automation, API and security" width="100%">
+</p>
 
+<p align="center">
+  <a href="https://wahyufikri.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ffd33d?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/wahyufzp"><img src="https://img.shields.io/badge/LinkedIn-0c2d6b?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:wfzputra@gmail.com"><img src="https://img.shields.io/badge/Email-0c2d6b?style=for-the-badge&logo=gmail&logoColor=79c0ff" alt="Email"></a>
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/7NmABehKSg) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/TBDironman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wahyufzp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wfzputra@gmail.com) 
+<img src="./assets/about.svg" alt="About" width="100%">
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=WahyuFZP&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=WahyuFZP&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=WahyuFZP&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="./assets/terminal.svg" width="100%" alt="$ whoami: wahyu fikri, software qa engineer, bandung, indonesia. $ cat about.txt: I automate end-to-end tests with Playwright, test REST APIs with Postman, and look for security flaws (OWASP Top 10) before a release goes out. Before QA I built web apps with Laravel and Next.js, so I read the code I test and write bug reports a developer can act on. $ ls now/: qa-engineer@exodrinks; learning: cypress, docker, pentest; open-to: qa-automation, software-testing.">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=WahyuFZP&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+<img src="./assets/stack.svg" alt="Stack" width="100%">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Testing**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=WahyuFZP&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Playwright](https://img.shields.io/badge/Playwright-0c2d6b?style=for-the-badge&logo=playwright&logoColor=79c0ff)
+![Postman](https://img.shields.io/badge/Postman-0c2d6b?style=for-the-badge&logo=postman&logoColor=79c0ff)
+![Selenium](https://img.shields.io/badge/Selenium-0c2d6b?style=for-the-badge&logo=selenium&logoColor=79c0ff)
+![Cypress](https://img.shields.io/badge/Cypress-0c2d6b?style=for-the-badge&logo=cypress&logoColor=79c0ff)
+![Jira](https://img.shields.io/badge/Jira-0c2d6b?style=for-the-badge&logo=jira&logoColor=79c0ff)
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-0c2d6b?style=for-the-badge&logo=owasp&logoColor=79c0ff)
 
----
-[![](https://komarev.com/ghpvc/?username=WahyuFZP&icon=0&color=0)](https://visitcount.itsvg.in)
+**Build**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![TypeScript](https://img.shields.io/badge/TypeScript-0c2d6b?style=for-the-badge&logo=typescript&logoColor=79c0ff)
+![Next.js](https://img.shields.io/badge/Next.js-0c2d6b?style=for-the-badge&logo=nextdotjs&logoColor=79c0ff)
+![React](https://img.shields.io/badge/React-0c2d6b?style=for-the-badge&logo=react&logoColor=79c0ff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0c2d6b?style=for-the-badge&logo=tailwindcss&logoColor=79c0ff)
+![Laravel](https://img.shields.io/badge/Laravel-0c2d6b?style=for-the-badge&logo=laravel&logoColor=79c0ff)
+![PHP](https://img.shields.io/badge/PHP-0c2d6b?style=for-the-badge&logo=php&logoColor=79c0ff)
+![Node.js](https://img.shields.io/badge/Node.js-0c2d6b?style=for-the-badge&logo=nodedotjs&logoColor=79c0ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0c2d6b?style=for-the-badge&logo=postgresql&logoColor=79c0ff)
+![MySQL](https://img.shields.io/badge/MySQL-0c2d6b?style=for-the-badge&logo=mysql&logoColor=79c0ff)
+
+**Ship**
+
+![Git](https://img.shields.io/badge/Git-0c2d6b?style=for-the-badge&logo=git&logoColor=79c0ff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0c2d6b?style=for-the-badge&logo=githubactions&logoColor=79c0ff)
+![Vercel](https://img.shields.io/badge/Vercel-0c2d6b?style=for-the-badge&logo=vercel&logoColor=79c0ff)
+![Linux](https://img.shields.io/badge/Linux-0c2d6b?style=for-the-badge&logo=linux&logoColor=79c0ff)
+![Docker](https://img.shields.io/badge/Docker-0c2d6b?style=for-the-badge&logo=docker&logoColor=79c0ff)
+![Grafana](https://img.shields.io/badge/Grafana-0c2d6b?style=for-the-badge&logo=grafana&logoColor=79c0ff)
+
+<img src="./assets/projects.svg" alt="Projects" width="100%">
+
+<a href="https://github.com/WahyuFZP/portofolio_landing"><img src="./assets/project-portfolio.svg" width="100%" alt="Portfolio: this pixel-themed site, covered by a Playwright suite (E2E, accessibility, security) that runs in GitHub Actions on every pull request. Stack: Next.js, TypeScript, Playwright, GitHub Actions."></a>
+
+<a href="https://wahyufikri.vercel.app/en/projects/ticketspace"><img src="./assets/project-ticketspace.svg" width="100%" alt="Ticket Space: QA and bug tracking. QA project for the Ticket Space platform: test case design, test execution, and bug reports on a Jira Kanban board. Stack: manual testing, Jira, Selenium, bug reporting."></a>
+
+<a href="https://wahyufikri.vercel.app/en/projects/eretribusi"><img src="./assets/project-eretribusi.svg" width="100%" alt="E-Retribution Payment System: digital waste-service payments with a payment gateway for the Madiun City Environmental Agency, replacing door-to-door collection. Stack: Laravel, PHP, MySQL, payment gateway."></a>
+
+<img src="./assets/stats.svg" alt="Stats" width="100%">
+
+<!-- Redrawn every day by .github/workflows/pacman.yml and published to the `output` branch. -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WahyuFZP/WahyuFZP/output/pacman-contribution-graph-dark.svg" alt="Pac-Man eating its way through my contribution calendar of the past year" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=WahyuFZP&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9&icon_color=ffd33d&border_color=388bfd&border_radius=0" alt="GitHub stats for WahyuFZP" height="165">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=WahyuFZP&layout=compact&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9&border_color=388bfd&border_radius=0" alt="Most used languages" height="165">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=WahyuFZP&background=0d1117&border=388bfd&stroke=0c2d6b&ring=ffd33d&fire=ffd33d&currStreakNum=ffd33d&currStreakLabel=79c0ff&sideNums=79c0ff&sideLabels=c9d1d9&dates=8b949e&border_radius=0" alt="GitHub contribution streak">
+</p>
+
+<img src="./assets/contact.svg" alt="Contact" width="100%">
+
+Have a role, a project, or a question? Write to [wfzputra@gmail.com](mailto:wfzputra@gmail.com), message me on [LinkedIn](https://linkedin.com/in/wahyufzp), or use the form on [my portfolio](https://wahyufikri.vercel.app/en#contact).

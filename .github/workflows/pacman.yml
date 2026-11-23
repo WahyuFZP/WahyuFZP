@@ -1,0 +1,43 @@
+name: Pac-Man contribution graph
+
+# Draws the contribution calendar as a Pac-Man game and publishes the SVG to the `output` branch,
+# where the README picks it up.
+on:
+  schedule:
+    - cron: "0 0 * * *" # once a day
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write # push to the output branch
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Generate the game
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: pacman
+
+      # The action only ships GitHub's green themes. The README is blue, so the four greens of the
+      # dark theme are swapped for the matching blues.
+      - name: Recolor to blue
+        run: |
+          sed -i \
+            -e 's/#0e4429/#0c2d6b/gI' \
+            -e 's/#006d32/#1158c7/gI' \
+            -e 's/#26a641/#388bfd/gI' \
+            -e 's/#39d353/#79c0ff/gI' \
+            dist/pacman-contribution-graph-dark.svg
+
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
