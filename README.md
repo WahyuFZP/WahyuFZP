@@ -16,33 +16,33 @@
 
 **Testing**
 
-![Playwright](https://img.shields.io/badge/Playwright-0c2d6b?style=for-the-badge&logo=playwright&logoColor=79c0ff)
-![Postman](https://img.shields.io/badge/Postman-0c2d6b?style=for-the-badge&logo=postman&logoColor=79c0ff)
-![Selenium](https://img.shields.io/badge/Selenium-0c2d6b?style=for-the-badge&logo=selenium&logoColor=79c0ff)
-![Cypress](https://img.shields.io/badge/Cypress-0c2d6b?style=for-the-badge&logo=cypress&logoColor=79c0ff)
-![Jira](https://img.shields.io/badge/Jira-0c2d6b?style=for-the-badge&logo=jira&logoColor=79c0ff)
-![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-0c2d6b?style=for-the-badge&logo=owasp&logoColor=79c0ff)
+![Playwright](https://img.shields.io/badge/Playwright-f0f6fc?style=for-the-badge&logo=playwright&logoColor=0d1117)
+![Postman](https://img.shields.io/badge/Postman-f0f6fc?style=for-the-badge&logo=postman&logoColor=0d1117)
+![Selenium](https://img.shields.io/badge/Selenium-f0f6fc?style=for-the-badge&logo=selenium&logoColor=0d1117)
+![Cypress](https://img.shields.io/badge/Cypress-f0f6fc?style=for-the-badge&logo=cypress&logoColor=0d1117)
+![Jira](https://img.shields.io/badge/Jira-f0f6fc?style=for-the-badge&logo=jira&logoColor=0d1117)
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-f0f6fc?style=for-the-badge&logo=owasp&logoColor=0d1117)
 
 **Build**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0c2d6b?style=for-the-badge&logo=typescript&logoColor=79c0ff)
-![Next.js](https://img.shields.io/badge/Next.js-0c2d6b?style=for-the-badge&logo=nextdotjs&logoColor=79c0ff)
-![React](https://img.shields.io/badge/React-0c2d6b?style=for-the-badge&logo=react&logoColor=79c0ff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0c2d6b?style=for-the-badge&logo=tailwindcss&logoColor=79c0ff)
-![Laravel](https://img.shields.io/badge/Laravel-0c2d6b?style=for-the-badge&logo=laravel&logoColor=79c0ff)
-![PHP](https://img.shields.io/badge/PHP-0c2d6b?style=for-the-badge&logo=php&logoColor=79c0ff)
-![Node.js](https://img.shields.io/badge/Node.js-0c2d6b?style=for-the-badge&logo=nodedotjs&logoColor=79c0ff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0c2d6b?style=for-the-badge&logo=postgresql&logoColor=79c0ff)
-![MySQL](https://img.shields.io/badge/MySQL-0c2d6b?style=for-the-badge&logo=mysql&logoColor=79c0ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-f0f6fc?style=for-the-badge&logo=typescript&logoColor=0d1117)
+![Next.js](https://img.shields.io/badge/Next.js-f0f6fc?style=for-the-badge&logo=nextdotjs&logoColor=0d1117)
+![React](https://img.shields.io/badge/React-f0f6fc?style=for-the-badge&logo=react&logoColor=0d1117)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-f0f6fc?style=for-the-badge&logo=tailwindcss&logoColor=0d1117)
+![Laravel](https://img.shields.io/badge/Laravel-f0f6fc?style=for-the-badge&logo=laravel&logoColor=0d1117)
+![PHP](https://img.shields.io/badge/PHP-f0f6fc?style=for-the-badge&logo=php&logoColor=0d1117)
+![Node.js](https://img.shields.io/badge/Node.js-f0f6fc?style=for-the-badge&logo=nodedotjs&logoColor=0d1117)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-f0f6fc?style=for-the-badge&logo=postgresql&logoColor=0d1117)
+![MySQL](https://img.shields.io/badge/MySQL-f0f6fc?style=for-the-badge&logo=mysql&logoColor=0d1117)
 
 **Ship**
 
-![Git](https://img.shields.io/badge/Git-0c2d6b?style=for-the-badge&logo=git&logoColor=79c0ff)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0c2d6b?style=for-the-badge&logo=githubactions&logoColor=79c0ff)
-![Vercel](https://img.shields.io/badge/Vercel-0c2d6b?style=for-the-badge&logo=vercel&logoColor=79c0ff)
-![Linux](https://img.shields.io/badge/Linux-0c2d6b?style=for-the-badge&logo=linux&logoColor=79c0ff)
-![Docker](https://img.shields.io/badge/Docker-0c2d6b?style=for-the-badge&logo=docker&logoColor=79c0ff)
-![Grafana](https://img.shields.io/badge/Grafana-0c2d6b?style=for-the-badge&logo=grafana&logoColor=79c0ff)
+![Git](https://img.shields.io/badge/Git-f0f6fc?style=for-the-badge&logo=git&logoColor=0d1117)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-f0f6fc?style=for-the-badge&logo=githubactions&logoColor=0d1117)
+![Vercel](https://img.shields.io/badge/Vercel-f0f6fc?style=for-the-badge&logo=vercel&logoColor=0d1117)
+![Linux](https://img.shields.io/badge/Linux-f0f6fc?style=for-the-badge&logo=linux&logoColor=0d1117)
+![Docker](https://img.shields.io/badge/Docker-f0f6fc?style=for-the-badge&logo=docker&logoColor=0d1117)
+![Grafana](https://img.shields.io/badge/Grafana-f0f6fc?style=for-the-badge&logo=grafana&logoColor=0d1117)
 
 <img src="./assets/projects.svg" alt="Projects" width="100%">
 
